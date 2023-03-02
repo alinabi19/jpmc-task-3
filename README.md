@@ -7,7 +7,7 @@ Initial State of the Client:
 
 ![Screenshot (891)](https://user-images.githubusercontent.com/96679148/222436142-d8ca2588-8f5f-4c77-b001-8b83335afdb3.png)
 Problem:\
-Not giving much information between the stocks..
+Not giving much information between the two stocks..
 
 \
 Tasks:\
